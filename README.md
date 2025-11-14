@@ -1,7 +1,6 @@
 # *Cadastro de Produtos* 
 
-*usar o `Image-Picker` para tirar fotos*
-
+*usar o `Image-Picker` para tirar fotos e acessar a galaria*
 
 
 ### **Navegações**
@@ -12,7 +11,13 @@
 <li> NavigationTypes.ts -> Tipos das navegações </li>
 </ul>
 
-
+## Screens
+* **Catalago** -> home onde tem todos os produtos disponivel com o nome e preço
+* **ProductDetailScreen.tsx** -> Detalhes do Produto expecifico
+* **RegisterProduto** -> formulario para registar o produto
+* **ImagePickerCameraScreen.tsx** -> Pagina da ativar a camera
+* **ImagePickerGalleryScreen.tsx** -> Pagina de abrir a galeria
+  
 ##  Bibliotecas e Funções-Chave
 
  As principais coisas que este projeto usa são:
